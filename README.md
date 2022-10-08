@@ -4,7 +4,7 @@
 ### Ainda estou montando meu README... :sweat:
 ## Contato:
 <div> 
-<a href="https://www.linkedin.com/in/igor-takahiro-kawano-71952519a/ target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+[Meu Linkedin] <a href="https://www.linkedin.com/in/igor-takahiro-kawano-71952519a/ target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <div>
 <a href="https://github.com/IgorTakahiro">
