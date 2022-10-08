@@ -1,30 +1,13 @@
-<h1 align="center"> Bem vindo ao meu perfil GitHub 👋 </h1>
+<h1 align="center">Prazer 👋, me chamo Igor</h1>
+<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas na UNINTER</h3>
 
-# Prazer, me chamo Igor!
-### Ainda estou montando meu README... :sweat:
-## Contato:
-<div> 
-<a href="https://www.linkedin.com/in/igor-takahiro-kawano-71952519a/ target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-<div>
-<a href="https://github.com/IgorTakahiro">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorTakahiro&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorTakahiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=igortakahiro&label=Profile%20views&color=0e75b6&style=flat" alt="igortakahiro" /> </p>
 
-### Hi there 👋
+- 🌱 Estudando linguagens da programação **Python, JS, HTML5, CSS**
 
-<!--
-**IgorTakahiro/IgorTakahiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/igor-takahiro-kawano-71952519a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/igor-takahiro-kawano-71952519a/" height="30" width="40" /></a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=igortakahiro&show_icons=true&locale=en" alt="igortakahiro" /></p>
