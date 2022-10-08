@@ -14,4 +14,4 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=igortakahiro&show_icons=true&locale=en" alt="igortakahiro" /></p>
-![Snake animation](https://github.com/igortakahiro/igortakahiro/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/IgorTakahiro/IgorTakahiro/blob/output/github-contribution-grid-snake.svg)
