@@ -1,5 +1,6 @@
-#Prazer, me chamo Igor!
+### Prazer, me chamo Igor!
 ## Bem vindo ao meu perfil GitHub 👋
+# Ainda estou montando meu README... :sweat:
 
 
 ### Hi there 👋
